@@ -263,7 +263,7 @@ Detection on my application is limited to five faces. Code can be tweaked to det
 
 ![](gender%20class%20loss%20and.JPG?raw=true "Title")
 
-![](emotion%20loss%20and%20a?raw=true "Title")
+![](emotion%20loss%20and%20a.JPG?raw=true "Title")
 ## Future Applications 
 
 Can be combined with surveillance and implemented in shops or other commercial places for an improved security.
