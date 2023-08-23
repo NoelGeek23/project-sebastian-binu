@@ -4,7 +4,7 @@ project-sebastian-binu created by GitHub Classroom
 ![](header.jpg?raw=true "Title")
 # Feature Interpretor Using facial data
 
-A brief description of what this project does and who it's for ----->
+A brief description of what this project does  ----->
 > Gender Detection
 
 > Age Detection
