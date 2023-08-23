@@ -1,5 +1,5 @@
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](header.jpg?raw=true "Title")
 # Feature Interpretor Using facial data
 
 A brief description of what this project does and who it's for ----->
@@ -246,30 +246,29 @@ https://www.kaggle.com/datasets/frabbisw/facial-age
     _________________________________________________________________
 ## Screenshots
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](face%20detected.JPG?raw=true "Title")
 
 Detection on my application is limited to five faces. Code can be tweaked to detect more faces at a time but this will increase the time complexity during training.
 ## Performance Metrics
 
 - Confusion Matrix for Age Classification
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](normalized%20confusion%20matrix.JPG?raw=true "Title")
 
 
 - Loss and Accuracy over an extended period of time for each of the three predictions in the model
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](loss%20and%20accuracy.JPG?raw=true "Title")
 
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](gender%20class%20loss%20and.JPG?raw=true "Title")
 
-
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](emotion%20loss%20and%20a?raw=true "Title")
 ## Future Applications 
 
 Can be combined with surveillance and implemented in shops or other commercial places for an improved security.
 
-![App Screenshot](/relative/path/to/img.jpg?raw=true "TEST")
+![](cctv%20future.jpg?raw=true "Title")
 
 
 
