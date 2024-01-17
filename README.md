@@ -1,5 +1,5 @@
-# project-sebastian-binu
-project-sebastian-binu created by GitHub Classroom
+# Facial Recognition with feature Mining in Python.
+                                   -sebastian-binu
 
 ![](header.jpg?raw=true "Title")
 # Feature Interpretor Using facial data
