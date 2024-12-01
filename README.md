@@ -1,4 +1,4 @@
-# Facial Recognition with feature Mining in Python.
+# Facial Recognition with multiple feature detection.
                                    -sebastian-binu
 
 ![](header.jpg?raw=true "Title")
